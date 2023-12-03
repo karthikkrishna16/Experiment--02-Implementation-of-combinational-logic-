@@ -34,11 +34,12 @@ OR operation. Y= A+B
 
 
 ## Program:
-/*
+~~~
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: TH KARTHIK KRISHNA
 RegisterNumber: 23014165 
-*/
+~~~
 ## code:
 ![image](https://github.com/karthikkrishna16/Experiment--02-Implementation-of-combinational-logic-/assets/148514663/14dae5d2-6320-4565-bc39-2ba1acc0a5f4)
 
